@@ -24,8 +24,6 @@ async function main() {
 %s
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 <a href="https://github.com/SuperHuangXu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperHuangXu&layout=compact&theme=radical" />
@@ -68,7 +66,7 @@ async function fetchCodeTime() {
   const url =
     'https://gist.githubusercontent.com/SuperHuangXu/d3e32e70ad1d22b5a3c5e8fc3c67dcc5/raw'
   const res = await request.get(url)
-  return '\n```text\n' + res.text + '\n```\n'
+  return '```text\n' + res.text + '\n```'
 }
 
 main()
