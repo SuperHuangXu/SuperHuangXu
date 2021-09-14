@@ -9,7 +9,6 @@
 
 #### 🏊‍♂️ <a href="https://gist.github.com/SuperHuangXu/d3e32e70ad1d22b5a3c5e8fc3c67dcc5" target="_blank">Weekly Development Breakdown</a>
 
-
 ```text
 TypeScript   8 hrs 54 mins  ███████████▒░░░░░░░░  41.9%
 JavaScript   5 hrs 10 mins  ███████▓░░░░░░░░░░░░  24.3%
@@ -17,10 +16,7 @@ Other        2 hrs 59 mins  █████▓░░░░░░░░░░░�
 JSON          2 hrs 2 mins  ████▓░░░░░░░░░░░░░░░   9.6%
 ```
 
-
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 <a href="https://github.com/SuperHuangXu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperHuangXu&layout=compact&theme=radical" />
