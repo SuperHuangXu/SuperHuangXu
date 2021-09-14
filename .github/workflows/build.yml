@@ -22,8 +22,6 @@ jobs:
       run: |
         npm i
     - name: Update README
-      env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |-
         node build_readme.mjs
         cat README.md
