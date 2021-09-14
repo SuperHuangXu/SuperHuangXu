@@ -16,6 +16,8 @@ jobs:
       uses: actions/setup-node@v2.4.0
       with:
         node-version: 14.17.6
+    - name: NPM or Yarn install with caching
+      uses: bahmutov/npm-install@v1.6.0
     - name: Install NPM dependencies
       run: |
         npm i
@@ -29,7 +31,6 @@ jobs:
         git config --global user.email "www.1567891@qq.com"
         git config --global user.name "SuperHuangXu"
         git pull
-        rm -rf node_modules
         git add -A
         git commit -m "Updated content" || exit 0
         git push
