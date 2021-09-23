@@ -10,10 +10,10 @@
 #### 🏊‍♂️ <a href="https://gist.github.com/SuperHuangXu/d3e32e70ad1d22b5a3c5e8fc3c67dcc5" target="_blank">Weekly Development Breakdown</a>
 
 ```text
-Rust         4 hrs 29 mins  █████████▒░░░░░░░░░░  31.9%
-JavaScript   4 hrs 14 mins  █████████░░░░░░░░░░░  30.0%
-TypeScript   3 hrs 58 mins  ████████▒░░░░░░░░░░░  28.1%
-JSON               40 mins  ███▓░░░░░░░░░░░░░░░░   4.8%
+Rust         3 hrs 49 mins  ██████████░░░░░░░░░░  35.3%
+JavaScript    3 hrs 7 mins  ████████▓░░░░░░░░░░░  28.8%
+TypeScript   2 hrs 47 mins  ████████░░░░░░░░░░░░  25.8%
+JSON               24 mins  ███▓░░░░░░░░░░░░░░░░   3.8%
 ```
 
 </td>
@@ -28,11 +28,11 @@ JSON               40 mins  ███▓░░░░░░░░░░░░░�
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
+* <a href='http://movie.douban.com/subject/35295898/' target='_blank'>想看一个女人</a> - 9/22/2021
+* <a href='http://movie.douban.com/subject/26883064/' target='_blank'>想看白夜追凶</a> - 9/22/2021
+* <a href='http://movie.douban.com/subject/20513939/' target='_blank'>想看现实生活中的海盗湾</a> - 9/22/2021
+* <a href='http://movie.douban.com/subject/35042912/' target='_blank'>看过云南虫谷</a> - 9/22/2021
 * <a href='http://movie.douban.com/subject/34966169/' target='_blank'>想看性爱自修室 第三季</a> - 9/20/2021
-* <a href='http://movie.douban.com/subject/35042912/' target='_blank'>在看云南虫谷</a> - 9/20/2021
-* <a href='http://movie.douban.com/subject/35376860/' target='_blank'>想看念念青春</a> - 9/19/2021
-* <a href='http://movie.douban.com/subject/34812928/' target='_blank'>想看鱿鱼游戏</a> - 9/18/2021
-* <a href='https://music.douban.com/subject/1427374/' target='_blank'>听过华丽的冒险</a> - 9/17/2021
 
 </td>
 </tr>
