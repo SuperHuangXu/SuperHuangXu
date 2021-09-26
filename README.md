@@ -28,11 +28,11 @@ Python               1 min  ███░░░░░░░░░░░░░░�
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
+* <a href='http://movie.douban.com/subject/30458949/' target='_blank'>看过无依之地</a> - 9/25/2021
+* <a href='http://movie.douban.com/subject/24745500/' target='_blank'>看过绣春刀</a> - 9/25/2021
 * <a href='http://movie.douban.com/subject/3011308/' target='_blank'>看过孤儿怨</a> - 9/23/2021
 * <a href='http://movie.douban.com/subject/30488569/' target='_blank'>在看龙岭迷窟</a> - 9/23/2021
 * <a href='http://movie.douban.com/subject/35376860/' target='_blank'>在看念念青春</a> - 9/23/2021
-* <a href='http://movie.douban.com/subject/35295898/' target='_blank'>想看一个女人</a> - 9/22/2021
-* <a href='http://movie.douban.com/subject/26883064/' target='_blank'>想看白夜追凶</a> - 9/22/2021
 
 </td>
 </tr>
