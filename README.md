@@ -28,11 +28,11 @@ Python             24 mins  ███▒░░░░░░░░░░░░░�
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
+* <a href='http://movie.douban.com/subject/1303535/' target='_blank'>想看战场上的快乐圣诞</a> - 10/9/2021
+* <a href='http://movie.douban.com/subject/4009651/' target='_blank'>想看斗牛</a> - 10/9/2021
+* <a href='http://movie.douban.com/subject/30371819/' target='_blank'>想看热带雨</a> - 10/9/2021
+* <a href='http://movie.douban.com/subject/24324730/' target='_blank'>想看爸妈不在家</a> - 10/9/2021
 * <a href='http://movie.douban.com/subject/27075258/' target='_blank'>想看和陌生人说话 第一季</a> - 10/8/2021
-* <a href='http://movie.douban.com/subject/2229479/' target='_blank'>看过穿越时空的爱恋</a> - 9/27/2021
-* <a href='http://movie.douban.com/subject/30458949/' target='_blank'>看过无依之地</a> - 9/25/2021
-* <a href='http://movie.douban.com/subject/24745500/' target='_blank'>看过绣春刀</a> - 9/25/2021
-* <a href='http://movie.douban.com/subject/3011308/' target='_blank'>看过孤儿怨</a> - 9/23/2021
 
 </td>
 </tr>
