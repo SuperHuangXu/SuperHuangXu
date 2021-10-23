@@ -28,11 +28,11 @@ JSON               42 mins  ███▒░░░░░░░░░░░░░�
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
+* <a href='http://movie.douban.com/subject/35438177/' target='_blank'>看过再见爱人</a> - 10/22/2021
 * <a href='http://movie.douban.com/subject/30488569/' target='_blank'>看过龙岭迷窟</a> - 10/16/2021
 * <a href='http://movie.douban.com/subject/27619748/' target='_blank'>看过唐人街探案3</a> - 10/16/2021
 * <a href='http://movie.douban.com/subject/1303535/' target='_blank'>想看战场上的快乐圣诞</a> - 10/9/2021
 * <a href='http://movie.douban.com/subject/4009651/' target='_blank'>想看斗牛</a> - 10/9/2021
-* <a href='http://movie.douban.com/subject/30371819/' target='_blank'>想看热带雨</a> - 10/9/2021
 
 </td>
 </tr>
