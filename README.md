@@ -10,10 +10,10 @@
 #### 🏊‍♂️ <a href="https://gist.github.com/SuperHuangXu/d3e32e70ad1d22b5a3c5e8fc3c67dcc5" target="_blank">Weekly Development Breakdown</a>
 
 ```text
-Rust         20 hrs 6 mins  ███████████████████░  80.8%
-TypeScript   3 hrs 15 mins  █████▒░░░░░░░░░░░░░░  13.1%
-JavaScript         51 mins  ███▓░░░░░░░░░░░░░░░░   3.4%
-Markdown           15 mins  ███░░░░░░░░░░░░░░░░░   1.1%
+Rust        15 hrs 56 mins  █████████████████░░░  71.1%
+TypeScript   3 hrs 29 mins  ██████░░░░░░░░░░░░░░  15.6%
+JavaScript   2 hrs 33 mins  █████░░░░░░░░░░░░░░░  11.4%
+Other              12 mins  ███░░░░░░░░░░░░░░░░░   0.9%
 ```
 
 </td>
@@ -28,11 +28,11 @@ Markdown           15 mins  ███░░░░░░░░░░░░░░�
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
-* <a href='http://movie.douban.com/subject/2210001/' target='_blank'>想看大明王朝1566</a> - 11/10/2021
-* <a href='http://movie.douban.com/subject/35438177/' target='_blank'>看过再见爱人</a> - 10/22/2021
-* <a href='http://movie.douban.com/subject/30488569/' target='_blank'>看过龙岭迷窟</a> - 10/16/2021
-* <a href='http://movie.douban.com/subject/27619748/' target='_blank'>看过唐人街探案3</a> - 10/16/2021
-* <a href='http://movie.douban.com/subject/1303535/' target='_blank'>想看战场上的快乐圣诞</a> - 10/9/2021
+* <a href='http://movie.douban.com/subject/34867871/' target='_blank'>想看英雄联盟：双城之战</a> - 11/17/2021
+* <a href='http://movie.douban.com/subject/34814907/' target='_blank'>想看老妇人</a> - 11/17/2021
+* <a href='http://movie.douban.com/subject/30488003/' target='_blank'>想看致允熙</a> - 11/17/2021
+* <a href='http://movie.douban.com/subject/26580232/' target='_blank'>想看看不见的客人</a> - 11/17/2021
+* <a href='http://movie.douban.com/subject/26775933/' target='_blank'>想看暴雪将至</a> - 11/17/2021
 
 </td>
 </tr>
