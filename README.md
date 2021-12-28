@@ -28,11 +28,11 @@ JavaScript    1 hr 14 mins  ███▓░░░░░░░░░░░░░�
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
-* <a href='http://movie.douban.com/subject/35297263/' target='_blank'>想看爱很美味</a> - 12/26/2021
-* <a href='http://movie.douban.com/subject/34447364/' target='_blank'>想看您好！母亲大人</a> - 12/26/2021
-* <a href='http://movie.douban.com/subject/35525539/' target='_blank'>看过这是恋爱！不良少年与白手杖女孩</a> - 12/17/2021
-* <a href='http://movie.douban.com/subject/11026735/' target='_blank'>看过超能陆战队</a> - 12/1/2021
-* <a href='http://movie.douban.com/subject/1291561/' target='_blank'>想看千与千寻</a> - 12/1/2021
+* <a href='http://movie.douban.com/subject/34962956/' target='_blank'>想看缉魂</a> - 12/27/2021
+* <a href='http://movie.douban.com/subject/34869004/' target='_blank'>想看遥望繁星</a> - 12/27/2021
+* <a href='http://movie.douban.com/subject/35242938/' target='_blank'>想看瀑布</a> - 12/27/2021
+* <a href='http://movie.douban.com/subject/30359468/' target='_blank'>想看浊水漂流</a> - 12/27/2021
+* <a href='http://movie.douban.com/subject/35144311/' target='_blank'>看过雄狮少年</a> - 12/27/2021
 
 </td>
 </tr>
