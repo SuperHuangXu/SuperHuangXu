@@ -10,10 +10,10 @@
 #### 🏊‍♂️ <a href="https://gist.github.com/SuperHuangXu/d3e32e70ad1d22b5a3c5e8fc3c67dcc5" target="_blank">Weekly Development Breakdown</a>
 
 ```text
-TypeScript  13 hrs 37 mins  ██████████████████▓░  79.4%
-JSON          1 hr 29 mins  ████▓░░░░░░░░░░░░░░░   8.7%
-JavaScript         35 mins  ███▓░░░░░░░░░░░░░░░░   3.4%
-Rust               14 mins  ███░░░░░░░░░░░░░░░░░   1.4%
+TypeScript  15 hrs 55 mins  ███████████████████▒  82.2%
+JSON          1 hr 25 mins  ████▒░░░░░░░░░░░░░░░   7.3%
+JavaScript         35 mins  ███▒░░░░░░░░░░░░░░░░   3.0%
+HTML               15 mins  ███░░░░░░░░░░░░░░░░░   1.3%
 ```
 
 </td>
@@ -28,11 +28,11 @@ Rust               14 mins  ███░░░░░░░░░░░░░░�
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
+* <a href='http://movie.douban.com/subject/35609549/' target='_blank'>想看美丽的他</a> - 1/1/2022
 * <a href='http://movie.douban.com/subject/34867871/' target='_blank'>看过英雄联盟：双城之战 第一季</a> - 12/28/2021
 * <a href='https://book.douban.com/subject/11609943/' target='_blank'>想读UNIX编程艺术</a> - 12/28/2021
 * <a href='http://movie.douban.com/subject/34962956/' target='_blank'>想看缉魂</a> - 12/27/2021
 * <a href='http://movie.douban.com/subject/34869004/' target='_blank'>想看遥望繁星</a> - 12/27/2021
-* <a href='http://movie.douban.com/subject/35242938/' target='_blank'>想看瀑布</a> - 12/27/2021
 
 </td>
 </tr>
