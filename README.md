@@ -28,11 +28,11 @@ HTML               15 mins  ███░░░░░░░░░░░░░░�
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
+* <a href='http://movie.douban.com/subject/35203343/' target='_blank'>看过小敏家</a> - 1/4/2022
 * <a href='http://movie.douban.com/subject/35609549/' target='_blank'>想看美丽的他</a> - 1/1/2022
 * <a href='http://movie.douban.com/subject/34867871/' target='_blank'>看过英雄联盟：双城之战 第一季</a> - 12/28/2021
 * <a href='https://book.douban.com/subject/11609943/' target='_blank'>想读UNIX编程艺术</a> - 12/28/2021
 * <a href='http://movie.douban.com/subject/34962956/' target='_blank'>想看缉魂</a> - 12/27/2021
-* <a href='http://movie.douban.com/subject/34869004/' target='_blank'>想看遥望繁星</a> - 12/27/2021
 
 </td>
 </tr>
