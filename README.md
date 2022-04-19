@@ -10,10 +10,10 @@
 #### 🏊‍♂️ <a href="https://gist.github.com/SuperHuangXu/d3e32e70ad1d22b5a3c5e8fc3c67dcc5" target="_blank">Weekly Development Breakdown</a>
 
 ```text
-TypeScript 14 hrs 57 mins █████████████████▊░░░  84.9%
-HTML       50 mins        █░░░░░░░░░░░░░░░░░░░░   4.8%
-JavaScript 40 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.8%
-JSON       26 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
+TypeScript 15 hrs 41 mins █████████████████▉░░░  85.2%
+HTML       51 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.7%
+JavaScript 49 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.5%
+JSON       24 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
 EJS        22 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
 ```
 
@@ -29,11 +29,11 @@ EJS        22 mins        ▍░░░░░░░░░░░░░░░░░
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
+* <a href='http://movie.douban.com/subject/33441821/' target='_blank'>看过二毛</a> - 4/18/2022
 * <a href='http://movie.douban.com/subject/35609549/' target='_blank'>看过美丽的他</a> - 4/9/2022
 * <a href='http://movie.douban.com/subject/35741365/' target='_blank'>看过语义错误</a> - 3/10/2022
 * <a href='http://movie.douban.com/subject/35390637/' target='_blank'>想看江照黎明</a> - 2/13/2022
 * <a href='http://movie.douban.com/subject/27021260/' target='_blank'>想看影响世界的中国植物</a> - 2/9/2022
-* <a href='http://movie.douban.com/subject/35332289/' target='_blank'>看过开端</a> - 1/30/2022
 
 </td>
 </tr>
