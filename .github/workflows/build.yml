@@ -25,7 +25,6 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 14.17.6
-          cache: "pnpm"
       - name: Update README
         run: |-
           node build_readme.mjs
