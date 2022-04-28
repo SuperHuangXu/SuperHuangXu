@@ -8,7 +8,7 @@ async function main() {
   const readmePath = './README.md'
   const doubanMd = await fetchDouban()
   const codeTimeMd = await fetchCodeTime()
-
+  console.log(process.env);
   const md = format(
     `
 ### Hi 👋

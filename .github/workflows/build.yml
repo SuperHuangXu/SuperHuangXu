@@ -10,6 +10,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+    - name: Get juejin post
+      id: juejin-post
+      uses: SuperHuangXu/juejin-post-action@v1
+      with:
+        user_id: 4142615541064046
     - name: Check out repo
       uses: actions/checkout@v2
     - name: Setup Node.js environment
@@ -23,6 +28,7 @@ jobs:
         npm i
     - name: Update README
       run: |-
+        echo juejin_md=${{ steps.juejin-post.outputs.md }} >> $GITHUB_ENV
         node build_readme.mjs
         cat README.md
     - name: Commit and push if changed
