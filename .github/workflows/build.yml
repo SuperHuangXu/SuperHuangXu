@@ -14,7 +14,7 @@ jobs:
       id: juejin-post
       uses: SuperHuangXu/juejin-post-action@v1
       with:
-        user_id: 4142615541064046
+        user_id: '4142615541064046'
     - name: Check out repo
       uses: actions/checkout@v2
     - name: Setup Node.js environment
