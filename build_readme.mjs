@@ -2,6 +2,7 @@ import fs from 'node:fs/promises'
 import { format } from 'node:util'
 import request from 'superagent'
 import rssToJson from 'rss-to-json'
+import dayjs from 'dayjs'
 const { Parse } = rssToJson
 
 async function main() {
@@ -62,7 +63,7 @@ async function fetchDouban() {
       (item) =>
         `* <a href='${item.link}' target='_blank'>${
           item.title
-        }</a> - ${new Date(item.published).toLocaleDateString()}`
+        }</a> - ${dayjs(item.published).format('YYYY/MM/DD')}`
     )
     .join('\n')
 }

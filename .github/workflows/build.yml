@@ -4,38 +4,36 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '0 0 * * *'
+    - cron: "0 0 * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Get juejin post
-      id: juejin-post
-      uses: SuperHuangXu/juejin-post-action@v1
-      with:
-        user_id: '4142615541064046'
-    - name: Check out repo
-      uses: actions/checkout@v2
-    - name: Setup Node.js environment
-      uses: actions/setup-node@v2.4.0
-      with:
-        node-version: 14.17.6
-    - name: NPM or Yarn install with caching
-      uses: bahmutov/npm-install@v1.6.0
-    - name: Install NPM dependencies
-      run: |
-        npm i
-    - name: Update README
-      run: |-
-        node build_readme.mjs
-        cat README.md
-    - name: Commit and push if changed
-      run: |-
-        git diff
-        git config --global user.email "www.1567891@qq.com"
-        git config --global user.name "SuperHuangXu"
-        git pull
-        git add -A
-        git commit -m "Updated content" || exit 0
-        git push
+      - name: Get juejin post
+        id: juejin-post
+        uses: SuperHuangXu/juejin-post-action@v1
+        with:
+          user_id: "4142615541064046"
+      - name: Check out repo
+        uses: actions/checkout@v3
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v3
+        with:
+          node-version: 14.17.6
+      - name: Install dependencies
+        run: |
+          pnpm i
+      - name: Update README
+        run: |-
+          node build_readme.mjs
+          cat README.md
+      - name: Commit and push if changed
+        run: |-
+          git diff
+          git config --global user.email "www.1567891@qq.com"
+          git config --global user.name "SuperHuangXu"
+          git pull
+          git add -A
+          git commit -m "Updated content" || exit 0
+          git push

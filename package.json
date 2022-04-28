@@ -1,6 +1,9 @@
 {
   "devDependencies": {
-    "superagent": "^6.1.0",
-    "rss-to-json": "^2.0.2"
+    "rss-to-json": "^2.0.2",
+    "superagent": "^6.1.0"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.1"
   }
 }
