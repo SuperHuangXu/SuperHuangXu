@@ -43,6 +43,8 @@ async function main() {
 
 %s
 
+> by: [juejin-post-action](https://github.com/SuperHuangXu/juejin-post-action)
+
 </td>
 </tr>
 </table>
