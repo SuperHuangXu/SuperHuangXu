@@ -17,15 +17,15 @@ jobs:
           user_id: "4142615541064046"
       - name: Check out repo
         uses: actions/checkout@v3
-      - name: Setup Node.js environment
-        uses: actions/setup-node@v3
-        with:
-          node-version: 14.17.6
-          cache: 'pnpm'
       - uses: pnpm/action-setup@v2.1.0
         with:
           version: 6.0.2
           run_install: true
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v3
+        with:
+          node-version: 14.17.6
+          cache: "pnpm"
       - name: Update README
         run: |-
           node build_readme.mjs
