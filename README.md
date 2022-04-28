@@ -36,5 +36,13 @@ Markdown   27 mins        ▌░░░░░░░░░░░░░░░░░
 * <a href='http://movie.douban.com/subject/27021260/' target='_blank'>想看影响世界的中国植物</a> - 2/9/2022
 
 </td>
+<td valign="top" width="50%">
+
+#### 🤾‍♂️ 最近更新
+
+#### 🤾‍ <a href="https://juejin.cn/user/4142615541064046" target="_blank">最近更新</a>
+  * <a href='https://juejin.cn/post/7091490504222703652' target='_blank'>测试文章</a> - 2022/04/28 03:25
+
+</td>
 </tr>
 </table>
