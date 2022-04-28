@@ -50,7 +50,6 @@ async function main() {
     doubanMd,
     juejinMd
   )
-  console.log(md)
   await fs.writeFile(readmePath, md)
 }
 
