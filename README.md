@@ -42,6 +42,8 @@ Markdown   27 mins        ▌░░░░░░░░░░░░░░░░░
   * <a href='https://juejin.cn/post/7091561831067566117' target='_blank'>测试文章2</a> - 2022/04/28 08:02
 * <a href='https://juejin.cn/post/7091490504222703652' target='_blank'>测试文章</a> - 2022/04/28 03:25
 
+> by: [juejin-post-action](https://github.com/SuperHuangXu/juejin-post-action)
+
 </td>
 </tr>
 </table>
