@@ -28,7 +28,6 @@ jobs:
         npm i
     - name: Update README
       run: |-
-        echo juejin_md=${{ steps.juejin-post.outputs.md }} >> $GITHUB_ENV
         node build_readme.mjs
         cat README.md
     - name: Commit and push if changed

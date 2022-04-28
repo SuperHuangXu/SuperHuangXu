@@ -8,7 +8,7 @@ async function main() {
   const readmePath = './README.md'
   const doubanMd = await fetchDouban()
   const codeTimeMd = await fetchCodeTime()
-  console.log(process.env);
+  const juejinMd = process.env.juejin_post_md
   const md = format(
     `
 ### Hi 👋
@@ -38,11 +38,19 @@ async function main() {
 %s
 
 </td>
+<td valign="top" width="50%">
+
+#### 🤾‍♂️ 最近更新
+
+%s
+
+</td>
 </tr>
 </table>
 `,
     codeTimeMd,
-    doubanMd
+    doubanMd,
+    juejinMd
   )
   console.log(md)
   await fs.writeFile(readmePath, md)
