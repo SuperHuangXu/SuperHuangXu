@@ -39,7 +39,8 @@ Markdown   27 mins        ▌░░░░░░░░░░░░░░░░░
 <td valign="top" width="50%">
 
 #### 🤾‍ <a href="https://juejin.cn/user/4142615541064046" target="_blank">最近更新</a>
-  * <a href='https://juejin.cn/post/7091490504222703652' target='_blank'>测试文章</a> - 2022/04/28 03:25
+  * <a href='https://juejin.cn/post/7091561831067566117' target='_blank'>测试文章2</a> - 2022/04/28 08:02
+* <a href='https://juejin.cn/post/7091490504222703652' target='_blank'>测试文章</a> - 2022/04/28 03:25
 
 </td>
 </tr>
