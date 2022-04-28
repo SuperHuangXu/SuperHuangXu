@@ -40,8 +40,6 @@ async function main() {
 </td>
 <td valign="top" width="50%">
 
-#### 🤾‍♂️ 最近更新
-
 %s
 
 </td>
