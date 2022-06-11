@@ -29,11 +29,11 @@ Other      10 mins        ▌░░░░░░░░░░░░░░░░░
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
-* <a href='http://movie.douban.com/subject/35231822/' target='_blank'>想看梦华录</a> - 2022/06/08
+* <a href='http://movie.douban.com/subject/34874432/' target='_blank'>看过花束般的恋爱</a> - 2022/06/10
+* <a href='http://movie.douban.com/subject/35231822/' target='_blank'>在看梦华录</a> - 2022/06/10
 * <a href='http://movie.douban.com/subject/26636273/' target='_blank'>想看当我们崛起时</a> - 2022/06/02
 * <a href='http://movie.douban.com/subject/33441821/' target='_blank'>看过二毛</a> - 2022/04/18
 * <a href='http://movie.douban.com/subject/35609549/' target='_blank'>看过美丽的他</a> - 2022/04/09
-* <a href='http://movie.douban.com/subject/35741365/' target='_blank'>看过语义错误</a> - 2022/03/10
 
 </td>
 <td valign="top" width="50%">
