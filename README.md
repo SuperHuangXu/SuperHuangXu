@@ -10,11 +10,11 @@
 #### 🏊‍♂️ <a href="https://gist.github.com/SuperHuangXu/d3e32e70ad1d22b5a3c5e8fc3c67dcc5" target="_blank">Weekly Development Breakdown</a>
 
 ```text
-TypeScript 18 hrs 4 mins  ████████████████▌░░░░  78.8%
-LESS       2 hrs 18 mins  ██░░░░░░░░░░░░░░░░░░░  10.0%
-Other      56 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.1%
-JSON       54 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
-JavaScript 17 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+TypeScript 12 hrs 16 mins ████████████████▎░░░░  77.7%
+LESS       1 hr 25 mins   █▉░░░░░░░░░░░░░░░░░░░   9.0%
+Other      56 mins        █▎░░░░░░░░░░░░░░░░░░░   6.0%
+JSON       39 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.1%
+JavaScript 16 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
 ```
 
 </td>
@@ -29,11 +29,11 @@ JavaScript 17 mins        ▎░░░░░░░░░░░░░░░░░
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
+* <a href='http://movie.douban.com/subject/34937471/' target='_blank'>看过杀死伊芙 第四季</a> - 2022/09/03
 * <a href='http://movie.douban.com/subject/35876298/' target='_blank'>想看意外的旅程</a> - 2022/08/13
 * <a href='http://movie.douban.com/subject/26307755/' target='_blank'>想看季春奶奶</a> - 2022/08/13
 * <a href='http://movie.douban.com/subject/35918457/' target='_blank'>想看快乐再出发</a> - 2022/08/13
 * <a href='http://movie.douban.com/subject/35073886/' target='_blank'>想看分手的决心</a> - 2022/08/12
-* <a href='http://movie.douban.com/subject/35183042/' target='_blank'>看过独行月球</a> - 2022/08/07
 
 </td>
 <td valign="top" width="50%">
