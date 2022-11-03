@@ -10,11 +10,11 @@
 #### 🏊‍♂️ <a href="https://gist.github.com/SuperHuangXu/d3e32e70ad1d22b5a3c5e8fc3c67dcc5" target="_blank">Weekly Development Breakdown</a>
 
 ```text
-TypeScript 2 hrs 12 mins  ████████████████████▉  99.5%
-yarn.lock  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-JavaScript 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-JSON       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-CSS        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+TypeScript 21 hrs 9 mins  ██████████████████░░░  86.0%
+JSON       1 hr 35 mins   █▎░░░░░░░░░░░░░░░░░░░   6.5%
+JavaScript 56 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
+LESS       21 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+CSS        17 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.2%
 ```
 
 </td>
@@ -29,11 +29,11 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
+* <a href='http://movie.douban.com/subject/35459040/' target='_blank'>想看第一次遇见花香的那刻</a> - 2022/11/02
+* <a href='http://movie.douban.com/subject/30449642/' target='_blank'>想看天桥上的魔术师</a> - 2022/11/02
+* <a href='http://movie.douban.com/subject/35637224/' target='_blank'>想看三悦有了新工作</a> - 2022/11/02
+* <a href='http://movie.douban.com/subject/35604644/' target='_blank'>想看她和她的她</a> - 2022/11/02
 * <a href='http://movie.douban.com/subject/34607516/' target='_blank'>看过华灯初上</a> - 2022/10/26
-* <a href='http://movie.douban.com/subject/34954093/' target='_blank'>看过妈妈！</a> - 2022/09/30
-* <a href='http://movie.douban.com/subject/34937471/' target='_blank'>看过杀死伊芙 第四季</a> - 2022/09/03
-* <a href='http://movie.douban.com/subject/35876298/' target='_blank'>想看意外的旅程</a> - 2022/08/13
-* <a href='http://movie.douban.com/subject/26307755/' target='_blank'>想看季春奶奶</a> - 2022/08/13
 
 </td>
 <td valign="top" width="50%">
