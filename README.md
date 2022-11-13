@@ -29,11 +29,11 @@ Other      8 mins         ▏░░░░░░░░░░░░░░░░░
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
-* <a href='http://movie.douban.com/subject/35071103/' target='_blank'>想看四楼的天堂</a> - 2022/11/05
+* <a href='http://movie.douban.com/subject/35550795/' target='_blank'>看过华灯初上 第三季</a> - 2022/11/12
+* <a href='http://movie.douban.com/subject/35550794/' target='_blank'>看过华灯初上 第二季</a> - 2022/11/12
+* <a href='http://movie.douban.com/subject/35071103/' target='_blank'>在看四楼的天堂</a> - 2022/11/12
 * <a href='http://movie.douban.com/subject/35459040/' target='_blank'>想看第一次遇见花香的那刻</a> - 2022/11/02
 * <a href='http://movie.douban.com/subject/30449642/' target='_blank'>想看天桥上的魔术师</a> - 2022/11/02
-* <a href='http://movie.douban.com/subject/35637224/' target='_blank'>想看三悦有了新工作</a> - 2022/11/02
-* <a href='http://movie.douban.com/subject/35604644/' target='_blank'>想看她和她的她</a> - 2022/11/02
 
 </td>
 <td valign="top" width="50%">
