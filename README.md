@@ -10,11 +10,11 @@
 #### 🏊‍♂️ <a href="https://gist.github.com/SuperHuangXu/d3e32e70ad1d22b5a3c5e8fc3c67dcc5" target="_blank">Weekly Development Breakdown</a>
 
 ```text
-TypeScript 18 hrs 25 mins ██████████████████▊░░  89.7%
-Text       1 hr 5 mins    █░░░░░░░░░░░░░░░░░░░░   5.3%
-JSON       33 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
-JavaScript 9 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
-Markdown   6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+TypeScript 12 hrs 43 mins ██████████████████▏░░  86.8%
+Text       1 hr 5 mins    █▌░░░░░░░░░░░░░░░░░░░   7.5%
+JSON       29 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
+JavaScript 9 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+LESS       3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
 ```
 
 </td>
@@ -29,11 +29,11 @@ Markdown   6 mins         ░░░░░░░░░░░░░░░░░░
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
+* <a href='http://movie.douban.com/subject/4011203/' target='_blank'>想看透析</a> - 2022/11/29
+* <a href='http://movie.douban.com/subject/4253448/' target='_blank'>想看第四张画</a> - 2022/11/29
 * <a href='http://movie.douban.com/subject/34850561/' target='_blank'>想看咒</a> - 2022/11/22
 * <a href='http://movie.douban.com/subject/35550795/' target='_blank'>看过华灯初上 第三季</a> - 2022/11/12
 * <a href='http://movie.douban.com/subject/35550794/' target='_blank'>看过华灯初上 第二季</a> - 2022/11/12
-* <a href='http://movie.douban.com/subject/35071103/' target='_blank'>在看四楼的天堂</a> - 2022/11/12
-* <a href='http://movie.douban.com/subject/35459040/' target='_blank'>想看第一次遇见花香的那刻</a> - 2022/11/02
 
 </td>
 <td valign="top" width="50%">
