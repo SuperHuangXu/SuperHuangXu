@@ -29,7 +29,7 @@ JSON       0 secs         ░░░░░░░░░░░░░░░░░░
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
-* <a href='http://movie.douban.com/subject/1291549/' target='_blank'>想看放牛班的春天</a> - 2022/12/29
+* <a href='http://movie.douban.com/subject/1291549/' target='_blank'>看过放牛班的春天</a> - 2023/01/02
 * <a href='http://movie.douban.com/subject/27305997/' target='_blank'>想看椒麻堂会</a> - 2022/12/29
 * <a href='http://movie.douban.com/subject/2133474/' target='_blank'>想看地下交通站</a> - 2022/12/26
 * <a href='http://movie.douban.com/subject/3131843/' target='_blank'>想看梅花档案</a> - 2022/12/10
