@@ -10,7 +10,7 @@
 #### 🏊‍♂️ <a href="https://gist.github.com/SuperHuangXu/d3e32e70ad1d22b5a3c5e8fc3c67dcc5" target="_blank">Weekly Development Breakdown</a>
 
 ```text
-TypeScript 5 hrs 53 mins  ████████████████████▏  96.4%
+TypeScript 6 hrs 6 mins   ████████████████████▎  96.5%
 HTML       4 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.3%
 CSS        3 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 LESS       2 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
@@ -29,11 +29,11 @@ JSON       1 min          ░░░░░░░░░░░░░░░░░░
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
+* <a href='http://movie.douban.com/subject/1297574/' target='_blank'>想看英雄本色</a> - 2023/03/25
 * <a href='http://movie.douban.com/subject/35637224/' target='_blank'>看过三悦有了新工作</a> - 2023/01/13
 * <a href='http://movie.douban.com/subject/35314632/' target='_blank'>想看黑暗荣耀</a> - 2023/01/07
 * <a href='http://movie.douban.com/subject/1291549/' target='_blank'>看过放牛班的春天</a> - 2023/01/02
 * <a href='http://movie.douban.com/subject/27305997/' target='_blank'>想看椒麻堂会</a> - 2022/12/29
-* <a href='http://movie.douban.com/subject/2133474/' target='_blank'>想看地下交通站</a> - 2022/12/26
 
 </td>
 <td valign="top" width="50%">
