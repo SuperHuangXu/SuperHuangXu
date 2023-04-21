@@ -10,11 +10,11 @@
 #### 🏊‍♂️ <a href="https://gist.github.com/SuperHuangXu/d3e32e70ad1d22b5a3c5e8fc3c67dcc5" target="_blank">Weekly Development Breakdown</a>
 
 ```text
-TypeScript 7 hrs 1 min    ██████████████▋░░░░░░  70.1%
-Prisma     1 hr 32 mins   ███▏░░░░░░░░░░░░░░░░░  15.4%
-JSON       40 mins        █▍░░░░░░░░░░░░░░░░░░░   6.7%
-.env file  25 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.3%
-Bash       8 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+TypeScript 8 hrs 32 mins  ███████████████▏░░░░░  72.5%
+Prisma     1 hr 40 mins   ███░░░░░░░░░░░░░░░░░░  14.3%
+JSON       43 mins        █▎░░░░░░░░░░░░░░░░░░░   6.1%
+.env file  25 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
+textmate   9 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.4%
 ```
 
 </td>
@@ -29,11 +29,11 @@ Bash       8 mins         ▎░░░░░░░░░░░░░░░░░
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
+* <a href='http://movie.douban.com/subject/36193784/' target='_blank'>看过黑暗荣耀 第二季</a> - 2023/04/20
+* <a href='http://movie.douban.com/subject/35314632/' target='_blank'>看过黑暗荣耀</a> - 2023/04/20
 * <a href='http://movie.douban.com/subject/25848328/' target='_blank'>想看最后生还者 第一季</a> - 2023/04/11
 * <a href='http://movie.douban.com/subject/1297574/' target='_blank'>想看英雄本色</a> - 2023/03/25
 * <a href='http://movie.douban.com/subject/35637224/' target='_blank'>看过三悦有了新工作</a> - 2023/01/13
-* <a href='http://movie.douban.com/subject/35314632/' target='_blank'>想看黑暗荣耀</a> - 2023/01/07
-* <a href='http://movie.douban.com/subject/1291549/' target='_blank'>看过放牛班的春天</a> - 2023/01/02
 
 </td>
 <td valign="top" width="50%">
