@@ -10,7 +10,8 @@
 #### 🏊‍♂️ <a href="https://gist.github.com/SuperHuangXu/d3e32e70ad1d22b5a3c5e8fc3c67dcc5" target="_blank">Weekly Development Breakdown</a>
 
 ```text
-TypeScript 0 secs         █████████████████████ 100.0%
+JavaScript 14 mins        ██████████████████▎░░  87.2%
+TypeScript 2 mins         ██▋░░░░░░░░░░░░░░░░░░  12.8%
 ```
 
 </td>
