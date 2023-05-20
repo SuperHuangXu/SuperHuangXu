@@ -28,11 +28,11 @@ Prisma     0 secs         ░░░░░░░░░░░░░░░░░░
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
+* <a href='http://movie.douban.com/subject/35839999/' target='_blank'>想看不良执念清除师</a> - 2023/05/19
 * <a href='http://movie.douban.com/subject/36156235/' target='_blank'>想看重启人生</a> - 2023/04/22
 * <a href='http://movie.douban.com/subject/36193784/' target='_blank'>看过黑暗荣耀 第二季</a> - 2023/04/20
 * <a href='http://movie.douban.com/subject/35314632/' target='_blank'>看过黑暗荣耀</a> - 2023/04/20
 * <a href='http://movie.douban.com/subject/25848328/' target='_blank'>想看最后生还者 第一季</a> - 2023/04/11
-* <a href='http://movie.douban.com/subject/1297574/' target='_blank'>想看英雄本色</a> - 2023/03/25
 
 </td>
 <td valign="top" width="50%">
