@@ -29,11 +29,11 @@ Other      2 mins         ▏░░░░░░░░░░░░░░░░░
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
+* <a href='http://movie.douban.com/subject/26707067/' target='_blank'>想看切小金家的旅馆</a> - 2023/06/02
 * <a href='http://movie.douban.com/subject/34982236/' target='_blank'>看过天才基本法</a> - 2023/05/26
 * <a href='http://movie.douban.com/subject/35588177/' target='_blank'>想看漫长的季节</a> - 2023/05/22
 * <a href='http://movie.douban.com/subject/35839999/' target='_blank'>想看不良执念清除师</a> - 2023/05/19
 * <a href='http://movie.douban.com/subject/36156235/' target='_blank'>想看重启人生</a> - 2023/04/22
-* <a href='http://movie.douban.com/subject/36193784/' target='_blank'>看过黑暗荣耀 第二季</a> - 2023/04/20
 
 </td>
 <td valign="top" width="50%">
