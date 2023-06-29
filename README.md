@@ -25,11 +25,11 @@ TypeScript 2 mins         ██████████████████
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
+* <a href='http://movie.douban.com/subject/35381711/' target='_blank'>想看博很恐惧</a> - 2023/06/28
 * <a href='http://movie.douban.com/subject/35660795/' target='_blank'>看过消失的她</a> - 2023/06/24
 * <a href='http://movie.douban.com/subject/35818074/' target='_blank'>看过我爱你！</a> - 2023/06/24
 * <a href='http://movie.douban.com/subject/10514846/' target='_blank'>想看金太狼的幸福生活</a> - 2023/06/04
 * <a href='http://movie.douban.com/subject/26707067/' target='_blank'>想看切小金家的旅馆</a> - 2023/06/02
-* <a href='http://movie.douban.com/subject/34982236/' target='_blank'>看过天才基本法</a> - 2023/05/26
 
 </td>
 <td valign="top" width="50%">
