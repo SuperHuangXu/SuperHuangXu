@@ -29,11 +29,11 @@ JavaScript 14 mins        ▎░░░░░░░░░░░░░░░░░
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
+* <a href='http://movie.douban.com/subject/30481876/' target='_blank'>想看我裙子去哪儿了？</a> - 2023/07/24
 * <a href='http://movie.douban.com/subject/33446362/' target='_blank'>想看黑狗</a> - 2023/07/07
 * <a href='http://movie.douban.com/subject/10514846/' target='_blank'>看过金太狼的幸福生活</a> - 2023/06/29
 * <a href='http://movie.douban.com/subject/35381711/' target='_blank'>想看博很恐惧</a> - 2023/06/28
 * <a href='http://movie.douban.com/subject/35660795/' target='_blank'>看过消失的她</a> - 2023/06/24
-* <a href='http://movie.douban.com/subject/35818074/' target='_blank'>看过我爱你！</a> - 2023/06/24
 
 </td>
 <td valign="top" width="50%">
