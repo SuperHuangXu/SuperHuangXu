@@ -25,11 +25,11 @@ Other      8 mins         ██████████████████
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
+* <a href='http://movie.douban.com/subject/33446362/' target='_blank'>在看黑狗</a> - 2024/02/01
 * <a href='http://movie.douban.com/subject/33456512/' target='_blank'>看过涉过愤怒的海</a> - 2023/12/01
 * <a href='http://movie.douban.com/subject/35839999/' target='_blank'>看过不良执念清除师</a> - 2023/09/07
 * <a href='http://movie.douban.com/subject/35593344/' target='_blank'>看过奥本海默</a> - 2023/09/02
 * <a href='http://movie.douban.com/subject/34882958/' target='_blank'>看过巨齿鲨2：深渊</a> - 2023/08/06
-* <a href='http://movie.douban.com/subject/30481876/' target='_blank'>想看我裙子去哪儿了？</a> - 2023/07/24
 
 </td>
 <td valign="top" width="50%">
