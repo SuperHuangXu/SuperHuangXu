@@ -25,11 +25,11 @@ Other      8 mins         ██████████████████
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
+* <a href='http://movie.douban.com/subject/35633650/' target='_blank'>想看坠落的审判</a> - 2024/03/27
+* <a href='http://movie.douban.com/subject/35196946/' target='_blank'>在看三体 第一季</a> - 2024/03/27
+* <a href='http://movie.douban.com/subject/35575567/' target='_blank'>看过沙丘2</a> - 2024/03/27
+* <a href='http://movie.douban.com/subject/36151692/' target='_blank'>看过周处除三害</a> - 2024/03/27
 * <a href='http://movie.douban.com/subject/1876765/' target='_blank'>想看意</a> - 2024/02/26
-* <a href='http://movie.douban.com/subject/26636273/' target='_blank'>在看当我们崛起时</a> - 2024/02/14
-* <a href='http://movie.douban.com/subject/33446362/' target='_blank'>看过黑狗</a> - 2024/02/14
-* <a href='http://movie.douban.com/subject/36409551/' target='_blank'>想看恋爱至上主义区域</a> - 2024/02/04
-* <a href='http://movie.douban.com/subject/33456512/' target='_blank'>看过涉过愤怒的海</a> - 2023/12/01
 
 </td>
 <td valign="top" width="50%">
