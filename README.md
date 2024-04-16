@@ -29,7 +29,7 @@ Other      8 mins         ██████████████████
 * <a href='http://movie.douban.com/subject/35033657/' target='_blank'>想看如蝶翩翩</a> - 2024/03/31
 * <a href='http://movie.douban.com/subject/26636816/' target='_blank'>想看我亲爱的朋友们</a> - 2024/03/31
 * <a href='http://movie.douban.com/subject/35633650/' target='_blank'>想看坠落的审判</a> - 2024/03/27
-* <a href='http://movie.douban.com/subject/35196946/' target='_blank'>在看三体 第一季</a> - 2024/03/27
+* <a href='http://movie.douban.com/subject/35575567/' target='_blank'>看过沙丘2</a> - 2024/03/27
 
 </td>
 <td valign="top" width="50%">
