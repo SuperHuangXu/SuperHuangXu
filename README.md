@@ -10,11 +10,11 @@
 #### 🏊‍♂️ <a href="https://gist.github.com/SuperHuangXu/d3e32e70ad1d22b5a3c5e8fc3c67dcc5" target="_blank">Weekly Development Breakdown</a>
 
 ```text
-Vue.js     15 hrs 20 mins ████████████▋░░░░░░░░  60.2%
-TypeScript 7 hrs 3 mins   █████▊░░░░░░░░░░░░░░░  27.7%
-JSON       2 hrs 17 mins  █▉░░░░░░░░░░░░░░░░░░░   9.0%
-JavaScript 25 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-.env file  17 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Vue.js     12 hrs 15 mins ████████████▏░░░░░░░░  57.9%
+TypeScript 6 hrs 25 mins  ██████▍░░░░░░░░░░░░░░  30.4%
+JSON       1 hr 36 mins   █▌░░░░░░░░░░░░░░░░░░░   7.6%
+JavaScript 27 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
+.env file  19 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
 ```
 
 </td>
@@ -29,11 +29,11 @@ JavaScript 25 mins        ▎░░░░░░░░░░░░░░░░░
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
+* <a href='http://movie.douban.com/subject/35588177/' target='_blank'>看过漫长的季节</a> - 2024/09/27
+* <a href='http://movie.douban.com/subject/35211921/' target='_blank'>看过富都青年</a> - 2024/09/27
 * <a href='http://movie.douban.com/subject/35792500/' target='_blank'>看过异形：夺命舰</a> - 2024/09/16
 * <a href='http://movie.douban.com/subject/36328210/' target='_blank'>看过姥姥的外孙</a> - 2024/09/07
 * <a href='http://movie.douban.com/subject/35265372/' target='_blank'>想看致我的星星</a> - 2024/07/14
-* <a href='http://movie.douban.com/subject/35128081/' target='_blank'>想看辐射 第一季</a> - 2024/05/06
-* <a href='http://movie.douban.com/subject/35900773/' target='_blank'>想看小小恶信件</a> - 2024/05/06
 
 </td>
 <td valign="top" width="50%">
