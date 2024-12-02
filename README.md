@@ -29,11 +29,11 @@ Markdown   32 mins        ▌░░░░░░░░░░░░░░░░░
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
+* <a href='http://movie.douban.com/subject/36782606/' target='_blank'>看过大都市爱情法</a> - 2024/12/01
 * <a href='http://movie.douban.com/subject/36154853/' target='_blank'>看过好东西</a> - 2024/11/27
 * <a href='http://movie.douban.com/subject/1291858/' target='_blank'>想看鬼子来了</a> - 2024/10/04
 * <a href='http://movie.douban.com/subject/35588177/' target='_blank'>看过漫长的季节</a> - 2024/09/27
 * <a href='http://movie.douban.com/subject/35211921/' target='_blank'>看过富都青年</a> - 2024/09/27
-* <a href='http://movie.douban.com/subject/35792500/' target='_blank'>看过异形：夺命舰</a> - 2024/09/16
 
 </td>
 <td valign="top" width="50%">
