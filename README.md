@@ -10,11 +10,11 @@
 #### 🏊‍♂️ <a href="https://gist.github.com/SuperHuangXu/d3e32e70ad1d22b5a3c5e8fc3c67dcc5" target="_blank">Weekly Development Breakdown</a>
 
 ```text
-JavaScript 5 hrs 23 mins  ██████▉░░░░░░░░░░░░░░  33.0%
-TypeScript 4 hrs 39 mins  █████▉░░░░░░░░░░░░░░░  28.6%
-Vue.js     3 hrs 2 mins   ███▉░░░░░░░░░░░░░░░░░  18.6%
-JSON       2 hrs 23 mins  ███░░░░░░░░░░░░░░░░░░  14.7%
-.env file  19 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+TypeScript 7 hrs 10 mins  ███████▊░░░░░░░░░░░░░  37.4%
+JavaScript 6 hrs 15 mins  ██████▊░░░░░░░░░░░░░░  32.7%
+Vue.js     2 hrs 51 mins  ███▏░░░░░░░░░░░░░░░░░  14.9%
+JSON       1 hr 47 mins   █▉░░░░░░░░░░░░░░░░░░░   9.4%
+.env file  19 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
 ```
 
 </td>
@@ -29,11 +29,11 @@ JSON       2 hrs 23 mins  ███░░░░░░░░░░░░░░░
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
+* <a href='http://movie.douban.com/subject/2085020/' target='_blank'>看过恶作剧之吻</a> - 2024/12/12
 * <a href='http://movie.douban.com/subject/36171172/' target='_blank'>想看大都市的爱情法</a> - 2024/12/08
 * <a href='http://movie.douban.com/subject/36782606/' target='_blank'>看过大都市爱情法</a> - 2024/12/01
 * <a href='http://movie.douban.com/subject/36154853/' target='_blank'>看过好东西</a> - 2024/11/27
 * <a href='http://movie.douban.com/subject/1291858/' target='_blank'>想看鬼子来了</a> - 2024/10/04
-* <a href='http://movie.douban.com/subject/35588177/' target='_blank'>看过漫长的季节</a> - 2024/09/27
 
 </td>
 <td valign="top" width="50%">
