@@ -10,7 +10,7 @@
 #### 🏊‍♂️ <a href="https://gist.github.com/SuperHuangXu/d3e32e70ad1d22b5a3c5e8fc3c67dcc5" target="_blank">Weekly Development Breakdown</a>
 
 ```text
-JSON       0 secs         █████████████████████ 100.0%
+TypeScript 12 mins        █████████████████████ 100.0%
 ```
 
 </td>
@@ -25,11 +25,11 @@ JSON       0 secs         ██████████████████
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
+* <a href='http://movie.douban.com/subject/35861791/' target='_blank'>看过初步举证</a> - 2025/03/10
 * <a href='http://movie.douban.com/subject/30304087/' target='_blank'>看过天空之城</a> - 2025/03/07
 * <a href='http://movie.douban.com/subject/4009651/' target='_blank'>看过斗牛</a> - 2025/03/07
 * <a href='http://movie.douban.com/subject/2210001/' target='_blank'>看过大明王朝1566</a> - 2025/03/07
 * <a href='http://movie.douban.com/subject/36171172/' target='_blank'>看过大都市的爱情法</a> - 2025/03/07
-* <a href='http://movie.douban.com/subject/35725869/' target='_blank'>看过年会不能停！</a> - 2024/12/24
 
 </td>
 <td valign="top" width="50%">
