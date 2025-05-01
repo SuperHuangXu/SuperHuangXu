@@ -25,11 +25,11 @@ SSH Key    0 secs         ██████████████████
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
+* <a href='https://movie.douban.com/subject/36765907/' target='_blank'>看过小娘惹之翡翠山</a> - 2025/04/30
+* <a href='https://movie.douban.com/subject/3334064/' target='_blank'>看过小娘惹</a> - 2025/04/30
 * <a href='https://movie.douban.com/subject/36149032/' target='_blank'>看过我们一起摇太阳</a> - 2025/03/28
 * <a href='https://movie.douban.com/subject/36671934/' target='_blank'>看过解除跆拳道的诅咒</a> - 2025/03/16
 * <a href='https://movie.douban.com/subject/34780991/' target='_blank'>看过哪吒之魔童闹海</a> - 2025/03/16
-* <a href='https://movie.douban.com/subject/36445098/' target='_blank'>看过还有明天</a> - 2025/03/15
-* <a href='https://movie.douban.com/subject/36053256/' target='_blank'>想看苦尽柑来遇见你</a> - 2025/03/15
 
 </td>
 <td valign="top" width="50%">
