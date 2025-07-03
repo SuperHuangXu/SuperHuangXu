@@ -35,7 +35,8 @@ SSH Key    0 secs         ██████████████████
 <td valign="top" width="50%">
 
 #### 🤾‍ <a href="https://juejin.cn/user/4142615541064046" target="_blank">最近更新</a>
-  * <a href='https://juejin.cn/post/7091561831067566117' target='_blank'>测试文章2</a> - 2022/04/28 08:02
+  * <a href='https://juejin.cn/post/7522316086391799818' target='_blank'>n8n 前端集成指南</a> - 2025/07/02 15:17
+* <a href='https://juejin.cn/post/7091561831067566117' target='_blank'>测试文章2</a> - 2022/04/28 08:02
 * <a href='https://juejin.cn/post/7091490504222703652' target='_blank'>测试文章</a> - 2022/04/28 03:25
 
 > by: [juejin-post-action](https://github.com/SuperHuangXu/juejin-post-action)
