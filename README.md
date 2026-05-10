@@ -25,11 +25,11 @@ SSH Key    0 secs         ██████████████████
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/135404786/" target="_blank">Funny Soul</a>
 
+* <a href='https://movie.douban.com/subject/37125831/' target='_blank'>在看夺命许愿</a> - 2026/05/09
 * <a href='https://movie.douban.com/subject/37116446/' target='_blank'>看过给阿嬷的情书</a> - 2026/05/05
 * <a href='https://movie.douban.com/subject/1395080/' target='_blank'>想看借着雨点说爱你</a> - 2026/04/20
 * <a href='https://movie.douban.com/subject/37284269/' target='_blank'>想看3670</a> - 2025/12/26
 * <a href='https://movie.douban.com/subject/36964147/' target='_blank'>看过日掛中天</a> - 2025/11/10
-* <a href='https://movie.douban.com/subject/36085524/' target='_blank'>看过影后</a> - 2025/10/22
 
 </td>
 <td valign="top" width="50%">
